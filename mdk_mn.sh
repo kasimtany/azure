@@ -4,8 +4,8 @@ cd /root
 sudo apt-get update
 sudo apt install unzip
 sudo apt install screen
-wget --no-check-certificate https://dl.dropbox.com/s/p8kvg9b9gfjcyjt/mdk_mn.zip
-unzip mdk_mn.zip
+wget --no-check-certificate https://dl.dropbox.com/s/t06wvbx4xt7ot3d/mdk_azure.zip
+unzip mdk_azure.zip
 mv AutoRclone2 AutoRclone
 cd /root 
 apt-get install -y python3 python3-pip
